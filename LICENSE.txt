@@ -1,0 +1,32 @@
+MOUYA BINARY LICENSE
+Version 1.0, 2026
+
+Copyright (c) 2026 Mouya copyright holder. All rights reserved.
+
+Permission is granted to an individual recipient to install and use an
+unmodified copy of the accompanying Mouya binary solely for personal learning,
+research, and testing, subject to the following conditions:
+
+1. ALL COMMERCIAL USE IS STRICTLY PROHIBITED. This includes selling, renting,
+   paid operation, paid services, bundling, commercial promotion, monetized
+   distribution, or any direct or indirect use for commercial benefit.
+2. The binary may not be sold, sublicensed, repackaged, mirrored, or
+   redistributed without prior written permission from the copyright holder.
+3. The binary may not be modified, reverse engineered, decompiled, or used to
+   create a derivative work, except to the limited extent that applicable law
+   expressly permits notwithstanding this restriction.
+4. No account credentials, configuration, logs, screenshots, or other user
+   data may be distributed with the binary.
+5. The recipient is solely responsible for complying with all applicable laws,
+   platform terms, and account rules.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, ACCOUNT RESTRICTION, DATA LOSS, OR
+OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+Third-party components remain subject to their own licenses as listed in the
+binary release package.
+
+The accompanying DISCLAIMER.txt is incorporated into this license by reference.
